@@ -1,0 +1,22 @@
+{
+    "name": "@armnajafi/discordsbm",
+    "version": "2.1.3",
+    "description": "Write Alive Mic & Record Mic server and date in server banner",
+    "main": "./discordSBM",
+    "keywords": [
+        "discord",
+        "server",
+        "banner",
+        "mic",
+        "alive mic",
+        "discordsbm",
+        "discord-sbm",
+        "ServerBanner"
+    ],
+    "repository": {
+        "url": "git://github.com/armnajafi/discordsbm.git"
+      },
+    "author": "Mr.Debugger <armnajafi@gmail.com>",
+    "license": "Apache-2.0",
+    "homepage": "https://github.com/armnajafi/discordsbm"
+}
